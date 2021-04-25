@@ -1,8 +1,4 @@
-#"I hereby certify that this program is solely the result of my own work
-#and is in compliance with the Academic Integrity policy of the course syllabus
-#and the academic integrity policy of the CS department.”
-
-#This is a simulation. Please press play! Thank you so much! 
+#This is a simulation. Please press play! 
 import random
 import Draw
 def backdrop():
